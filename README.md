@@ -1,9 +1,9 @@
-Description
+# Description
 
 --> This is a URL Shortener project that converts long URLs into short, easy-to-share links.
 The short links redirect to the original URL when accessed.
 
-Functions : - 
+# Functions : - 
 
 * Generate a unique short URL for any given long URL
 
